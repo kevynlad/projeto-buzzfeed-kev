@@ -1,0 +1,66 @@
+{
+  "title": "Qual time de futebol combina com você?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual liga de futebol você mais acompanha?",
+      "options": [
+        { "id": 1, "name": "Premier League (Inglaterra)", "alias": "A" },
+        { "id": 2, "name": "La Liga (Espanha)", "alias": "B" },
+        { "id": 3, "name": "Serie A (Itália)", "alias": "C" },
+        { "id": 4, "name": "Bundesliga (Alemanha)", "alias": "D" },
+        { "id": 5, "name": "Brasileirão (Brasil)", "alias": "E" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual estilo de jogo você mais admira?",
+      "options": [
+        { "id": 1, "name": "Ofensivo e técnico", "alias": "A" },
+        { "id": 2, "name": "Controlador e estratégico", "alias": "B" },
+        { "id": 3, "name": "Defensivo e sólido", "alias": "C" },
+        { "id": 4, "name": "Dinâmico e veloz", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é o seu jogador favorito?",
+      "options": [
+        { "id": 1, "name": "Lionel Messi", "alias": "B" },
+        { "id": 2, "name": "Cristiano Ronaldo", "alias": "A" },
+        { "id": 3, "name": "Neymar Jr.", "alias": "E" },
+        { "id": 4, "name": "Kylian Mbappé", "alias": "D" },
+        { "id": 5, "name": "Luka Modrić", "alias": "C" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual a cor do uniforme que você mais gosta?",
+      "options": [
+        { "id": 1, "name": "Vermelho", "alias": "A" },
+        { "id": 2, "name": "Azul", "alias": "B" },
+        { "id": 3, "name": "Branco", "alias": "C" },
+        { "id": 4, "name": "Amarelo", "alias": "E" },
+        { "id": 5, "name": "Preto", "alias": "D" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual cidade você gostaria de visitar?",
+      "options": [
+        { "id": 1, "name": "Londres (Inglaterra)", "alias": "A" },
+        { "id": 2, "name": "Madri (Espanha)", "alias": "B" },
+        { "id": 3, "name": "Milão (Itália)", "alias": "C" },
+        { "id": 4, "name": "Munique (Alemanha)", "alias": "D" },
+        { "id": 5, "name": "Rio de Janeiro (Brasil)", "alias": "E" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você combina com os gigantes ingleses, como Manchester United ou Liverpool!",
+    "B": "Você é apaixonado pelos clássicos espanhóis, como Real Madrid ou Barcelona!",
+    "C": "Seu coração bate forte pelo futebol italiano, como Juventus ou Milan!",
+    "D": "Você gosta da força alemã, com Bayern de Munique ou Borussia Dortmund!",
+    "E": "Você tem alma brasileira, combinando com times como Flamengo ou Palmeiras!"
+  }
+}
